@@ -33,8 +33,8 @@ Your logical statement has 4 atomic sentences.  <br/>
 +-------+-------+-------+-------+------------------------------+ <br/>
 
 ### Sample 2:  <br/>
-[Output](https://drive.google.com/file/d/16-IWAM8mLsoamcWBUwIPrM_6c93qdGVq "a biconditional b or c")
-
+![alt text](https://drive.google.com/file/d/16-IWAM8mLsoamcWBUwIPrM_6c93qdGVq "Output")
+[Link to Output](https://drive.google.com/file/d/16-IWAM8mLsoamcWBUwIPrM_6c93qdGVq "a biconditional b or c")
 
 User input supports a wide range of symbols and letters to represent atomic sentences.<br/>
 #### Examples:

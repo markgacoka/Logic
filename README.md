@@ -52,10 +52,28 @@ a and b
 a & b
 a && b
 ```
-![a and b](https://github.com/markgacoka/Logic/)
+
+1. a and b
+![a and b](https://github.com/markgacoka/Logic/blob/master/a_and_b.png)
+
+2. a and b or c
+![a and b or c](https://github.com/markgacoka/Logic/blob/master/a%20and%20b%20or%20c.png)
+
+3. not a biconditional b or c
+![not a biconditional b or c](https://github.com/markgacoka/Logic/blob/master/not%20a%20bicon%20bc.png)
 
 ## Practical Use Cases
+#### Case 1
+A - Mark is going to the market (True)
+B - Mark is a writer (False)
 
+A (True) and B (False) would result to False as the second argument makes it invalid.
+
+#### Case 2
+A - I am writing a novel (True)
+B - You like cooking (False)
+
+A implies B (same as not a or b) on the truth table would result to False thus making it an invalid argument. The truth value of an implication is dependent only on the conclusion (when we say 'therefore this') and not the premises. Thus, if A is false and B is true, A → B will still be true.
 
 ## Built With
 

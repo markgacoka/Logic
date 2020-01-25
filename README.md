@@ -23,26 +23,36 @@ pip3 install prettytable
 ```
 
 If you have downloaded prettytable but you get an import error, download it to a virtual environment and run it from there.
+
 ```
-python
 source venv/bin/activate
 pip install https://pypi.python.org/packages/source/P/PrettyTable/prettytable-0.7.2.tar.bz2
 ```
 
 ## Running the tests
 To run the program, simply run the python file and follow the prompts:
+
 ```
 python3 ~/truth_table.py
 ```
 
 Supported connectives include:
 * Conjunction (and, &)
-* Disjunction (or, V)
+* Disjunction (or, V, xnor)
 * Implication (implies, →)
 * Biconditional (bicon, ↔)
 * Negation (not, ¬)
+* Brackets '()'
 
-Explain how to run the automated tests for this system
+## Examples
+If you want to get the truth table for 'a and b' you would input
+
+```
+a and b
+a & b
+a && b
+```
+![a and b](https://github.com/markgacoka/Logic/)
 
 ## Practical Use Cases
 

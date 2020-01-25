@@ -24,6 +24,7 @@ pip3 install prettytable
 
 If you have downloaded prettytable but you get an import error, download it to a virtual environment and run it from there.
 ```
+python
 source venv/bin/activate
 pip install https://pypi.python.org/packages/source/P/PrettyTable/prettytable-0.7.2.tar.bz2
 ```

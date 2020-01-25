@@ -57,13 +57,13 @@ a & b
 a && b
 ```
 
-1. a and b
+### 1. a and b
  ![a and b](https://github.com/markgacoka/Logic/blob/master/a_and_b.png)
 
-2. a and b or c
+### 2. a and b or c
  ![a and b or c](https://github.com/markgacoka/Logic/blob/master/a%20and%20b%20or%20c.png)
 
-3. not a biconditional b or c
+### 3. not a biconditional b or c
  ![not a biconditional b or c](https://github.com/markgacoka/Logic/blob/master/not%20a%20bicon%20bc.png)
 
 ## Practical Use Cases
